@@ -4,13 +4,13 @@ Data Science Domain Question Answering Bot
 A specialised chatbot designed to assist users with data science queries by leveraging state of the art NLP models and techniques.
 
 
-📂 *Dataset*
+📂 *Dataset* //
 The bot will be trained on curated dicussions from:
 - **Reddit**: Discussion in r/datascience.
 - **Kaggle**: Data science forum threads.
 - **Data Science Textbooks/Tutorials**: Excerpts covering concepts, algorithms, and examples.
 
-🔧 *Tools & Libraries*
+🔧 *Tools & Libraries* //
 **Data Scraping and Processing**:
 - BeautifoulSoup
 - Requests
@@ -23,12 +23,13 @@ The bot will be trained on curated dicussions from:
 - Scikit-learn
 - PyTorch
 
-**Model Architecture**:
+**Model Architecture**: //
 *Base Models:*
 - BERT (ModernBERT)
 
 *Advanced Options:*
 - RAG
+- Streamlit
 
 🚀 *Potential Features*
 - Answer data science questions in natural language.

@@ -1,8 +1,7 @@
 title,body
-data siens,
 I was once reading this article that went as: “The AI already predicted how many goals Cavani will score at Manchester United”. It was a linear regression.,"['#SportsAnalytics', 'I’m a ManU fan. I want Cavani to do well. But I’m also finishing up my Masters in Data Analytics and this made me laugh out loud. Well done', 'tbf im pretty sure a linear regression could predict Lewis Hammertime as a 8 time world champion. Should I write an article and call it AI?']"
 How do you change your setup on Jupyter to look like this?,['IMPORT EXCEL DATAFRAME']
-The reality of 9/10 data scientist job specs!,"['[deleted]', 'It would be...\n\nRequirements:\nPhD and 15 years experience required\n\nJob duties: \nMeme']"
+The reality of 9/10 data scientist job specs!,"['It would be Requirements-PhD and 15 years experience required Job duties: Meme']"
 oh fuck 😂😂😂this had no business to be funny,"[""God the fact that he didn't even refence another cell is what gets me. He typed in =1+2"", 'Right, this is the last place I expect to see a meme that kills me 😂']"
 ARtYfIshaL NtEliGeNtS,"['Read this as ""artificial negligence"" and it also applies', 'After learning how to use ""if"" function 😂😂', 'MuHsHeEn LeRnInG', '😂😂😂😂']"
 "What's the problem here, this looks like my 8-5 🤔","['You da best siens', ""I'm sure we can figure this out with 50% more data and a linear regression!""]"
@@ -4447,7 +4446,8 @@ Source: data “scientist” that works with large amounts of very important dat
 ">work toward working for myself and not rely on ONE single source of income.  
   
 >  
->have much more fun in my 20s  
+>have much more fun in my 20s
+  
 
 
 How do you have fun but also have more than one source of income?","['Onlyfans?', '[removed]']"
@@ -14970,8 +14970,10 @@ and dumb bc you didn't listen to the MIT Linear Algebra classes,[]
 "Wait..you can work in wireline without being in the field for the crazy hours?? As a prior frac engineer, tell me more 🥲","[""Oh man field days were rough back in 2012 with oil up and west Texas booming. I wouldn't see a shower or a bathroom that wasn't a porta potty for 6+ days at a time. Being the only woman on a rig was also its own brand of special on some occasions. \n\nI moved into the data processing center. Originally they had me interview for sales because that or ops is the usual career path but I have a physics degree so I asked about geoscience. You don't strictly need field experience to do geoscience but it sure helped me out to know logging software and the nuts and bolts of how these curves are obtained and their limitations. \n\n I do wish I had more frac exposure though. Now I mostly give fracturing program inputs and advise on the geomechanics side of things, but practically speaking all I know about fracking out in the field is pressure pumps go BRRRRRRRRR.""]"
 That doesn't really help answer my question lol.,"[""I was working at Shell's data management department. We had an in-house solution to keep track of various business processes and kick off data processing procedures. Also, I built a data cleanup tool.""]"
 I was thinking about doing the UH MSDS until I realized how much of a joke it is (I'm currently a senior math major at UH). You can learn everything you learn in that masters by doing the entire Datacamp course on it for FREE (with github student developer pack).,['Wow I know this is a little late but I was thinking of doing it but really didn’t hear much about it on the UH subreddit. Really didn’t expect to find info about it here as I’m just browsing around on how to transition into DS.']
-"I always get defensive on this topic, even though I know, theoretically, it's true. Theoretically, since I've done alright so far without it and have yet to gain personal benefit of networking.   
-  
+"I always get defensive on this topic, even though I know, theoretically, it's true. Theoretically, since I've done alright so far without it and have yet to gain personal benefit of networking. 
+  
+
+  
 I also think that ""trying to learn advanced technologies"" produces an immediate result, which *feels* more important than networking. You follow the tutorial or lesson, and you have a result in front of you – an action has a quick consequence. With networking you don't know if that one person will be 'useful' or interesting or if *you* would be able to provide benefit to them. It could take *years* to potentially benefit from a personal connection. If you like people and socializing, that feels like a result. If you are a type of person that doesn’t get much, or anything, out of socializing, it can feel hard to justify the energy to do so.","['I agree that it takes work and it’s sometimes hard to know which connections will “pay off.” But I can only use my personal anecdotes as evidence that it does pay off. \n\nI’m not currently job searching, but in the past week, I’ve had two people from my network mention to me directly “I would love for you to work on my team/at my company, let me know when you’re searching and I’ll make a referral or hand over your resume personally.” One is a longtime employee of Microsoft. \n\nDespite not currently job searching, my LinkedIn inbox is full of messages from recruiters, some from pretty big names. (I have 5 years of analytics/DS experience.) My response to all of them is “I’m not looking but here are some folks who are” and I share links to the profiles of people I know personally from my MSDS program who are currently looking for a job. Many of my classmates have little to no experience, so their job search has been hard. Anyway, it has led to multiple folks getting interviews, one just told me last week that he’s in process of interviewing at Twitter thanks to my passing along his profile.']"
 "> deep university
 
@@ -18675,7 +18677,8 @@ All you do is shit on people and their goals.  Just reading through your history
 
 Though I think overall it would be hired to make money being an influencer than a software eng
 
-60,000 to 250,000 views  
+60,000 to 250,000 views
+  
 Once you get your channel monetized, every view will cost you around $0.004 to $0.016 per view. So you’ll need about 6,000 to 25,000 views to make your first $100 and 60,000 to 250,000 views to make $1000. To make money on YouTube, you generally need to have at least 1,000 subscribers and 4,000 hours of watch time within the past 12 months.",[]
 "I’m sure many people would love to have her life 
 
@@ -21298,13 +21301,21 @@ But yes, there is a huge difference between somebody who has perfect aim with a 
 
 The steps to the Scientific Method are:
 
-1) Pose a Testable Question.  
-2) Conduct Background Research.  
-3) State your Hypothesis.  
-4) Design Experiment.  
-5) Perform your Experiment.  
-6) Collect Data.  
-7) Draw Conclusions.  
+
+1) Pose a Testable Question.
+  
+2) Conduct Background Research.
+  
+3) State your Hypothesis.
+  
+4) Design Experiment.
+  
+5) Perform your Experiment.
+  
+6) Collect Data.
+  
+7) Draw Conclusions.
+  
 8) Publish Findings (optional).
 
 You also are NOT trying to prove the hypothesis.  Let the facts speak for themselves and getting a clear example that invalidates a hypothesis is a powerful way to improve understanding.","[""Since most data science is not done in academia, I think step 8 should be more sharing your findings with coworkers (or testers/auditors if you have them) and asking them to poke holes in your methodology and conclusions in a way similar to how publishing does with journals. This is especially important with regards to Simpson's paradox and finding the true causation rather than finding simple correlations. Peer review and criticism is one of the most important parts of the scientific method."", 'I would argue this isn’t emblematic of a lot of academic research of data science. A lot of science isn’t hypothesis-driven but involves just observational work that leads to insights. Experiments aren’t designed for every paper and in fact most papers did not come about via the scientific method but that doesn’t mean they aren’t rigorous or important.', 'Depending on the environment, there is one more aspect that IMHO is often underrepresented or missed: 9. Explaining Experiment/Result (optional)\n\nWhat I mean with this is ""8. Publish Findings"" tends IMHO to focus typically on informing fellow data science experts and asking them for review, aka opening a discussion about the steps taken. While explaining results to a wider or specific audience requires boiling it down or tailoring the information to the background of the audience.', 'Science does not mean ""the scientific method."" In fact that\'s not how you do science.\n\nThe *real* way people do science is:\n\n1) Look around for something interesting\n\n2) Read literature\n\n4) Publish paper\n\n5) Apply for funding, if no funding go back to step 1\n\n6) Collect data\n\n7) Analyze data\n\n8) Get results\n\n9) Publish paper\n\n10) Apply for funding, if no funding go back to step 1\n\n11) Design preliminary study\n\n12) Collect data\n\n13) Analyze data\n\n14) Get results\n\n15) Publish paper\n\n16) Apply for funding, if no funding go back to step 1\n\n17) Form a hypothesis\n\n18) Design the real study & experiment\n\n19) Publish a paper\n\n20) Apply for funding, if no funding go back to step 1\n\n21) Conduct the experiment\n\n22) Collect data\n\n23) Analyze data\n\n24) Get results\n\n25) Publish paper\n\nIt takes **years** of research to even form a hypothesis that hasn\'t been done before (incremental salami research in trash journals) and is actually interesting.\n\nThe reason why everyone parades around ""the scientific method"" was because during renaissance we had a lot of low hanging fruits like ""I let go of the apple and it will fall down"" which doesn\'t take a lot of imagination nor there was a large volume of research that has already been done. It never really was the way people do science and it\'s just some stuff some randoms will tell you on the science channel.\n\nAnd this is just empirical research which is pretty rare. Most research is not empirical. Even physics is mostly math and computer simulations nowadays and you don\'t really do hypothesis type of thing either because it\'s formal proofs you\'re after and mostly ""throw shit at the wall until something sticks"".\n\nThis type of confirmatory empirical research is basically dead.. It\'s the very final step in like drug research. Pretty much most research never reaches that stage because nobody is going to fund you to beat a dead horse that has 10 papers written about it already. Most things don\'t need to be confirmed with a formal study where you make a formal hypothesis and design the study to test it because that ""thing"" has no value and basic research ends there. Most published papers are describing an idea and providing some evidence that suggests that there might be something. They very rarely advance to the confirmatory research stage because the idea isn\'t worth the money.\n\nI have a PhD in ML and I did 0 empirical research and ""hypothesis"" or ""experiment"" is not mentioned once in any of my papers (top conferences) or my dissertation (got great marks for it and even won some awards). I literally get paid to do science for a living and I haven\'t used the word hypothesis since like highschool biology.', 'Exactly.\n\nHowever, I think a key part of science reporting should always be making it accessible, and meaningful. \n\nPresenting it in a way that makes sense to the layman. \n\nTelling a story. What does this mean in practice?\n\nToo many people think they can just throw together some information, give it to your boss/client/whatever and job done.']"
